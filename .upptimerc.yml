@@ -9,6 +9,7 @@ sites:
 
 
 status-website:
+
   # cname: demo.upptime.js.org
   name: lazy-status
   baseUrl: /status-page
@@ -18,6 +19,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
