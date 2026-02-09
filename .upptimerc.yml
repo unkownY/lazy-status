@@ -4,7 +4,7 @@ repo: lazy-status
 
 sites:
   - name: lazy-people
-    url: https://lazy-people.com
+    url: https://status.lazy-people.com
     icon: https://lazy-people.com/favicon.ico
 
 
