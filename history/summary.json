@@ -5,16 +5,19 @@
     "icon": "https://lazy-people.com/favicon.ico",
     "slug": "lazy-people",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 180,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
-    "dailyMinutesDown": {}
+    "uptime": "86.11%",
+    "uptimeDay": "7.33%",
+    "uptimeWeek": "86.11%",
+    "uptimeMonth": "86.11%",
+    "uptimeYear": "86.11%",
+    "time": 208,
+    "timeDay": 163,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 208,
+    "dailyMinutesDown": {
+      "2026-02-11": 13,
+      "2026-02-10": 1321
+    }
   }
 ]
